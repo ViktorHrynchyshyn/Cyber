@@ -37,6 +37,7 @@ IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs for alps-cherry
 LogFolderPath=
 ManagedProjectGUID=
+VcsMigrated=305EA995-9BA0-4106-9087-699D91DC430F|70F0C6E5-B869-4082-BD1D-4380D189AD5B
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
